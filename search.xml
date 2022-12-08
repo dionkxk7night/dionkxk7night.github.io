@@ -43,9 +43,9 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>archives</title>
+      <link href="/archives/index.html"/>
+      <url>/archives/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -65,22 +65,22 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
-        <content type="html"><![CDATA[<p><a href="https://dionkxk7night.github.io/tags/Android/">Android</a> </p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>archives</title>
-      <link href="/archives/index.html"/>
-      <url>/archives/index.html</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p><a href="https://dionkxk7night.github.io/tags/Android/">Android</a> </p>]]></content>
       
     </entry>
     
